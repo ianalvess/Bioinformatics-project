@@ -1,14 +1,14 @@
-# Projeto em Bioinformatica
+# Bioinformatics project
 
 ### Analyzing metagenomic datasets from extreme environments to uncover biotechnologically valuable biomolecules
 
-#### Autor: 
+#### Author: 
 - Ian Alves Machado PG51682
 
-#### Orientadores:
+#### Advisors:
  - Sara Silverio 
  - Ricardo Franco Duarte
  - Cátia Santos Pereira
 
-#### Objetivo:
-Neste trabalho, iremos procurar ferramentas e bases de dados que nos permitam estudar e analisar biomoléculas de microrganismos que habitam em ambientes hipersalinos. Adicionalmente, contribuiremos para o enriquecimento de <br>uma base de dados dedicada aos biossurfactantes
+#### Objectives:
+In this work, we will look for tools and databases that allow us to study and analyze the biomolecules of microorganisms that live in hypersaline environments. In addition, we will contribute to the enrichment of a database dedicated to biosurfactants.
